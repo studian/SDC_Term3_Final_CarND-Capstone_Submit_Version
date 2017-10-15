@@ -1,0 +1,4 @@
+{
+  "input_name": "input_1:0",
+  "output_name": "predictions/Softmax:0"
+}
