@@ -10,6 +10,8 @@
 | Xing Jin       |jin_xing@hotmail.com |
 | Zhao Minming   |minmingzhao@gmail.com|
 
+* Orgiginal github of our team project : https://github.com/9mat/CarND-Capstone
+
 
 ### Overview
 
